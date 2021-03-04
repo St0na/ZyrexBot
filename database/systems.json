@@ -1,0 +1,23 @@
+{
+  "mute": [
+    {
+      "guild": "725694618548568164",
+      "guild_name": "⛄ZyrexStudio",
+      "user": "668755806027513866",
+      "user_name": "•☆°AFK | Muastlox°☆•",
+      "staff": "631189057862631496",
+      "staff_username": "AloneDark",
+      "channel": "789525963465424936",
+      "channel_name": "🇹🇷turkish-chat",
+      "reason": "No Reason Given",
+      "time": "2g",
+      "finishtime": null
+    }
+  ],
+  "ban": [],
+  "kufurEngel": [],
+  "autorole": [],
+  "reklamEngel": [],
+  "security": [],
+  "counter": []
+}
