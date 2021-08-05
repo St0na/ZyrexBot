@@ -36,7 +36,7 @@ exports.conf = {
   permLevel: 0,
   kategori: "geliştirici"
 };
-//codare
+
 exports.help = { 
 	name: 'blacklist', 
 	description: 'Belirlenen kişinin botu kullanmasını engeller.', 
