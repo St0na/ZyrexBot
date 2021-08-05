@@ -1,2 +1,2 @@
 # ZyrexBot
-İ love programming 
+can easily meet basic functions
